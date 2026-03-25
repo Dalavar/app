@@ -1,0 +1,38 @@
+[
+        {
+            "indexPoint": 1,
+            "namePoint": "Блок 1",
+            "datePointsStart": 2015,
+            "datePointsStop": 2022
+        },
+        {
+            "indexPoint": 2,
+            "namePoint": "Кино",
+            "datePointsStart": 1987,
+            "datePointsStop": 1991
+        },
+        {
+            "indexPoint": 3,
+            "namePoint": "Литература",
+            "datePointsStart": 1992,
+            "datePointsStop": 1997
+        },
+        {
+            "indexPoint": 4,
+            "namePoint": "Блок 4",
+            "datePointsStart": 1992,
+            "datePointsStop": 1997
+        },
+        {
+            "indexPoint": 5,
+            "namePoint": "Блок 5",
+            "datePointsStart": 1992,
+            "datePointsStop": 1997
+        },
+        {
+            "indexPoint": 6,
+            "namePoint": "Блок 6",
+            "datePointsStart": 1992,
+            "datePointsStop": 1997
+        }
+    ]
